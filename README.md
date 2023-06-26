@@ -2,6 +2,12 @@
 
 This is a snippet of a Flutter iOS Method Channel for Pose Detection using MLKit.
 
+
+
+https://github.com/VisualPT/MLKitPoseDetection/assets/62311337/2707853a-804c-4741-bd65-71062f29dc26
+
+
+
 ## Introduction
 The snippet in this repository allows Flutter apps to leverage the capabilities of Google's ML Kit's Pose Detection API. The package supports pose detection in "real-time". Note that there is notable latency using this implementation strategy, hence the "real time" in quotes.
 
